@@ -1,0 +1,11 @@
+.tops-item__hidden {
+    margin: 1rem;
+    background-color: rgb(240, 240, 240);
+    border: 2px solid rgb(220, 220, 220);
+}
+
+.tops-item__discovered {
+    margin: 1rem;
+    background-color: rgb(145, 255, 143);
+    border: 2px solid rgb(3, 255, 37);
+}

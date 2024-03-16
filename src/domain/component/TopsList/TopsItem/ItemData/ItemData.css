@@ -1,0 +1,11 @@
+.item-data {
+    display: flex;
+}
+
+.item-data div {
+    padding: 1rem;
+}
+
+.item-data__desc {
+    font-weight: bold;
+}

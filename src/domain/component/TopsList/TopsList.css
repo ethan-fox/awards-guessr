@@ -1,0 +1,8 @@
+.tops-list {
+    background-color: rgb(189, 220, 255);
+    border: 2px outset rgb(234, 237, 255);
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.4);
+    padding: 1rem;
+    margin: 1rem auto;
+    width: 25%;
+}
